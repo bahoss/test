@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Clone the project, change into the directory and install the dependencies.
 
 ```bash
-git clone https://github.com/philnash/react-express-starter.git
+git clone https://github.com/bahoss/test.git
 cd react-express-starter
 npm install
 ```
